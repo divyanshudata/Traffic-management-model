@@ -20,6 +20,3 @@ This project leverages AI algorithms to manage traffic signals and vehicle routi
 2.  **Install SUMO:** Ensure `SUMO_HOME` is set in your environment variables.
 3.  **Run the Simulation:**
     `python main.py`
-
-## 📊 Results
-(Add a screenshot or a GIF of your simulation running here!)
