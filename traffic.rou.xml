@@ -1,0 +1,7 @@
+<routes>
+    <vType id="car" accel="0.8" decel="4.5" length="5.0" maxSpeed="70.0"/>
+    
+    <flow id="jam_force" type="car" begin="0" end="200" number="400" from="A1B1" to="F4F3"/>
+    
+    <flow id="regular" type="car" begin="0" end="1000" number="50" from="A1B4" to="F4F1"/>
+</routes>
